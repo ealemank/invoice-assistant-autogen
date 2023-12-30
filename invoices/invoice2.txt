@@ -1,0 +1,6 @@
+Invoice number: INV-002
+Project name: Web Design
+Total amount: $3000
+Hourly Rate: $85
+Due date: 2023-05-15
+Sales Representative: Jane Smith

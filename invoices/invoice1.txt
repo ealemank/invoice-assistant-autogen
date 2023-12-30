@@ -1,0 +1,6 @@
+Invoice number: INV-001
+Project name: AI Development
+Total amount: $5000
+Hourly Rate: $100
+Due date: 2023-04-30
+Sales Representative: John Doe
